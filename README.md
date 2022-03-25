@@ -1,3 +1,2 @@
 # Fork_it_Again
-
-Something exciting I learned this week is how to collaborate on Git using AWS.
+one thing i learned this week was how to collabrate on git hub with your partners
